@@ -14,6 +14,8 @@ This project explores the application of Reinforcement Learning (RL) to solve th
 
 📈 Visualizations of agent performance over episodes
 
+📂 Dataset: albano_2007-05-15 (standard benchmark for 2D bin packing)
+
 🛠️ Libraries Used:
 1. Python
 2. Stable Baselines3
