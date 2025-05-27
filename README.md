@@ -27,3 +27,6 @@ This project explores the application of Reinforcement Learning (RL) to solve th
 1. Sheet metal nesting in manufacturing
 2. Warehouse layout optimization
 3. Logistics and container packing
+
+![image](https://github.com/user-attachments/assets/070b71da-949b-4169-a53c-e4e3c5b182f0)
+**Custom Gym Environment**
