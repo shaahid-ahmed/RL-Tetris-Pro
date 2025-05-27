@@ -1,0 +1,9 @@
+numpy
+pandas
+opencv-python
+pygame
+gymnasium
+matplotlib
+shapely
+rectpack
+stable-baselines3
